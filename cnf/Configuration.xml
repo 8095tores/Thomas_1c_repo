@@ -214,7 +214,6 @@
 			<Subsystem>УчетМатериалов</Subsystem>
 			<Subsystem>ОказаниеУслуг</Subsystem>
 			<Subsystem>РасчетЗарплаты</Subsystem>
-			<Subsystem>УчетМатериалов1</Subsystem>
 			<CommonPicture>Бухгалтерия</CommonPicture>
 			<CommonPicture>УчетМатериалов</CommonPicture>
 			<CommonPicture>ОказаниеУслуг</CommonPicture>
