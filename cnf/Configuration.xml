@@ -237,6 +237,7 @@
 			<Report>ПроизвольныйОтчет</Report>
 			<Report>ПроизвольныйОтчет2</Report>
 			<DataProcessor>МоиСтоПервыхДокументов</DataProcessor>
+			<DataProcessor>ПроверкаДокументаОказаниеУслуги</DataProcessor>
 			<InformationRegister>Цены</InformationRegister>
 			<AccumulationRegister>ОстаткиМатериалов</AccumulationRegister>
 			<AccumulationRegister>СтоимостьМатериалов</AccumulationRegister>
